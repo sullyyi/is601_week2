@@ -1,0 +1,4 @@
+This note is a creation to add a changed file and track a commit for practice.
+This assignment was intended to clone the Professor's app, and interact with PyTest.
+PyTest was able to show a test of each of the functions within the calculator app- while making sure that the app is still in good condition to complete its operations.
+
